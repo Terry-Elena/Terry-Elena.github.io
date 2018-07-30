@@ -7,7 +7,7 @@
 	position: fixed;
     top: 30%;
     left: 30%;
-	width:30%;
+    width:30%;
 	max-height: 500px;
 		background: rgb(206,220,231); /* Old browsers */
 background: -moz-linear-gradient(top, rgba(206,220,231,1) 0%, rgba(89,106,114,1) 100%); /* FF3.6-15 */

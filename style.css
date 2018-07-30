@@ -50,6 +50,18 @@ header h4 {background-color: white;
     float: left;
     width: 24px;
 }
+
+
+
+
+/*.fa-coffee:before {
+    content: "\0f4";
+    font-family: 'FontAwesome';
+    color: #454547;
+    font-size: 20px;
+    float: left;
+    width: 24px;*/
+}
 strong, b {
     font-weight: bold;
 }
@@ -75,6 +87,8 @@ strong, b {
 .topm .right li {
     padding-left: 25px;
 }
+
+
 /*ul {
     list-style: square;
 }
