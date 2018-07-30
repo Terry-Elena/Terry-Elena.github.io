@@ -1,0 +1,20 @@
+/* Стили для затемнения фона */
+
+	
+.forma-os-p h2{color:black;}
+
+#modal {display: none;
+	position: fixed;
+    top: 30%;
+    left: 30%;
+	width:30%;
+	max-height: 500px;
+		background: rgb(206,220,231); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(206,220,231,1) 0%, rgba(89,106,114,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=0 ); /* IE6-9 */
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.8); }
+	
+
+	
